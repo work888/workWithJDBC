@@ -1,4 +1,4 @@
-package seniorOfJava.JDBC;
+package work888;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

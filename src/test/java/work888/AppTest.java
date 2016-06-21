@@ -1,4 +1,4 @@
-package seniorOfJava.JDBC;
+package work888;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
